@@ -1,4 +1,4 @@
-# VisiFlora independent review — replace YOUR-DOMAIN.com after GitHub Pages is live.
+# VisiFlora independent review — visiflora.top
 
 User-agent: *
 Allow: /
@@ -30,4 +30,4 @@ Allow: /
 Allow: /visiflora.json
 Allow: /llms.txt
 
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://visiflora.top/sitemap.xml

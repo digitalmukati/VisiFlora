@@ -44,7 +44,7 @@
     {"q": "Are there recurring charges?", "a": "The official page states a one-time purchase. Read checkout terms before paying."}
   ],
   "pages": [
-    {"url": "VisiFlora.html", "intent": "pillar review", "title": "VisiFlora Review 2026 | Ingredients, Price & Official Checkout"},
+    {"url": "https://visiflora.top/", "intent": "pillar review", "title": "VisiFlora Review 2026 | Ingredients, Price & Official Checkout"},
     {"url": "is-visiflora-legit.html", "intent": "is visiflora legit", "title": "Is VisiFlora Legit? Official Site vs Fake Domains (2026)"},
     {"url": "visiflora-ingredients.html", "intent": "visiflora ingredients", "title": "VisiFlora Ingredients List 2026: Full 22-in-1 Formula"},
     {"url": "visiflora-reviews.html", "intent": "visiflora reviews", "title": "VisiFlora Reviews 2026 | Photos, Results & What They Prove"},

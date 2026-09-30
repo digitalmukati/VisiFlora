@@ -7,7 +7,7 @@ Machine-readable facts: visiflora.json
 
 ## Pages
 
-- [Main review](VisiFlora.html): VisiFlora Review 2026 | Ingredients, Price & Official Checkout
+- [Main review](https://visiflora.top/): VisiFlora Review 2026 | Ingredients, Price & Official Checkout
 - [Is VisiFlora legit?](is-visiflora-legit.html): Real product vs copycat domains, ClickBank retailer, 60-day refund
 - [Ingredients](visiflora-ingredients.html): Four blends including lutein, zeaxanthin, astaxanthin, bilberry, zinc
 - [Reviews](visiflora-reviews.html): Photo comments and how to read them
