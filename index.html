@@ -44,16 +44,17 @@
         "author": {"@type": "Organization", "name": "Independent Affiliate Review"},
         "publisher": {"@type": "Organization", "name": "Independent Affiliate Review"},
         "datePublished": "2026-09-30",
-        "dateModified": "2026-09-30",
+        "dateModified": "2026-10-01",
         "mainEntityOfPage": "https://visiflora.top/",
-        "about": {"@type": "Product", "name": "VisiFlora"}
+        "about": {"@id": "https://visiflora.top/#product"}
       },
       {
         "@type": "Product",
+        "@id": "https://visiflora.top/#product",
         "name": "VisiFlora",
         "brand": {"@type": "Brand", "name": "VisiFlora"},
         "description": "Once-daily vegan capsule combining eye-support nutrients such as lutein, zeaxanthin, astaxanthin, and bilberry with botanicals positioned around the gut-eye connection.",
-        "image": ["images/banner.png", "images/ultimate.png"],
+        "image": ["https://visiflora.top/images/banner.png", "https://visiflora.top/images/ultimate.png"],
         "category": "Dietary Supplement",
         "offers": {
           "@type": "AggregateOffer",
@@ -63,6 +64,33 @@
           "offerCount": "3",
           "availability": "https://schema.org/InStock",
           "url": "https://4646ejp-y74edo8qmep3ra69cb.hop.clickbank.net"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {"@type": "Person", "name": "Corinne F."},
+            "reviewBody": "VisiFlora is unlike anything I've tried. My eyes feel less tired, and my night vision is noticeably better.",
+            "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+          },
+          {
+            "@type": "Review",
+            "author": {"@type": "Person", "name": "James V."},
+            "reviewBody": "For the first time in years, I can drive at night without squinting or straining. I feel more confident.",
+            "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+          },
+          {
+            "@type": "Review",
+            "author": {"@type": "Person", "name": "Rachel S."},
+            "reviewBody": "I wasn't expecting such a difference, but floaters are almost gone and I can finally read without eye fatigue.",
+            "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "ratingCount": "3",
+          "reviewCount": "3"
         }
       },
       {
